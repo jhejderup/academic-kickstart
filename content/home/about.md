@@ -10,31 +10,41 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Dependency Management",
+    "Program Analysis",
+    "APIs"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MSc in Computer Science - Software Engineering"
+  institution = "Delft University of Technology"
+  year = 2015
+
+[[education.courses]]
+  course = "BSc in Computer Engineering"
+  institution = "Chalmers University of Technology"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
-# Biography
+# Hoi!
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to my academic space! The website is still not in a released state
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a PhD Student at the [Software Engineering Research Group](https://se.ewi.tudelft.nl/), TU Delft under the supervision of my incredible advisor, [dr. Georgios Gousios](http://gousios.org/).
+
+My research mission is to develop new techniques for making package management systems (such as [Cargo](https://crates.io/)/[Maven](https://maven.apache.org/)/[npm](https://www.npmjs.com/)) more intelligent, safe and robust. As a step towards this ambitious goal, I was among the very first who explored the idea of deriving a versioned dependency network of [npm](https://www.npmjs.com/) for security tracking. As a result, my [MSc thesis](https://repository.tudelft.nl/islandora/object/uuid:3a15293b-16f6-4e9d-b6a2-f02cd52f1a9e) sparked vivid discussions about dependency issues on [Hacker News](https://news.ycombinator.com/item?id=10027356). In my PhD, I am combining my interest for program analysis with dependency networks to enable ecosystem-wide data-driven program analysis. 
+
+Feel free to fire away an email to discuss with me :)
+
+
+
+
+
+
+
+
+
+
