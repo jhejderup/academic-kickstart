@@ -230,6 +230,11 @@ enableGitInfo = false
     link = "mailto:j.i.hejderup@tudelft.nl"
 
   [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/josephhejderup/?locale=sv_SE"
+
+  [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
     link = "//twitter.com/jhejderup"
@@ -248,6 +253,9 @@ enableGitInfo = false
     icon = "orcid"
     icon_pack = "ai"
     link = "https://orcid.org/0000-0001-8626-9964"
+
+
+
 
 
   # Link to a PDF of your resume/CV from the About widget.
